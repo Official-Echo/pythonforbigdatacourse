@@ -1,0 +1,1 @@
+print("Oleksandr Zolotarov, SE-2023")
